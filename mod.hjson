@@ -1,7 +1,7 @@
-name: "my-first-mod"
-displayName: "This isn't a mod."
+name: "ores-mod"
+displayName: "Ores mod"
 author: Yourself
-description: "Or is it ?"
+description: "New ores added."
 version: "1.0"
 minGameVersion: "126.2"
 dependencies: [ ]
