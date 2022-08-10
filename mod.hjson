@@ -1,0 +1,8 @@
+name: "my-first-mod"
+displayName: "This isn't a mod."
+author: Yourself
+description: "Or is it ?"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
