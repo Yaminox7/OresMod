@@ -1,0 +1,16 @@
+{
+	"name": "Repair Turret",
+	"description": "A healing turret.",
+	"type": "Turret",
+	"size": 2,
+	"consumes": {
+		"power": 300.0,	
+	},
+	"requirements": [
+		{ "item": "thorium", "amount": 80 },
+		{ "item": "silicon", "amount": 90 },
+		{ "item": "plastanium", "amount": 60 }
+	],
+	"category": "unit",
+	"research": "repair-point"
+}

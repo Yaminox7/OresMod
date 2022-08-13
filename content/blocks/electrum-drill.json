@@ -1,0 +1,19 @@
+{
+	"name": "Electrum Drill",
+	"description": "A very strange drill.",
+	"type": "Drill",
+	"size": 3,
+	"tier": 5,
+	"drillTime": 75,
+	"consumes": {
+		"power": 28.0
+	},
+	"requirements": [
+		{ "item": "electrum", "amount": 80 },
+		{ "item": "diamond", "amount": 60 },
+		{ "item": "silicon", "amount": 40 },
+		{ "item": "graphite", "amount": 20 }
+	],
+	"category": "production",
+	"research": "diamond-drill"
+}
