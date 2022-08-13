@@ -1,7 +1,7 @@
 {
 	"name": "Repair Turret",
-	"description": "A healing turret.",
-	"type": "Turret",
+	"description": "A unit healing turret.",
+	"type": "Unit",
 	"size": 2,
 	"consumes": {
 		"power": 300.0,	
@@ -11,5 +11,6 @@
 		{ "item": "silicon", "amount": 90 },
 		{ "item": "plastanium", "amount": 60 }
 	],
+	"category": "unit",
 	"research": "repair-point"
 }
