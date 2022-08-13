@@ -11,6 +11,5 @@
 		{ "item": "silicon", "amount": 90 },
 		{ "item": "plastanium", "amount": 60 }
 	],
-	"category": "unit",
 	"research": "repair-point"
 }
