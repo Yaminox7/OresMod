@@ -1,8 +1,0 @@
-{
-	"type": "material",
-	"name": "diamond",
-	"description": "A rare resource.",
-	"hardness": 4,
-	"cost": 2.0,
-	"color": "FF0000"
-}
