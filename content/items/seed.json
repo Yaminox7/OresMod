@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "seed",
+	"description": "Seed that can grow into a tree.",
+	"cost": 2.0,
+	"color": "039ae5"
+}
