@@ -3,14 +3,14 @@
 	"name": "Green House",
 	"description": "Water some seeds to make them grow into trees that produce oxygen.",
 	"liquidCapacity": 50,
-	"outputLiquid": {"liquid": "oxygen", "amount": 7.0},
+	"outputLiquid": {"liquid": "oxygen", "amount": 0.833},
 	"size": 4,
 	"hasPower": true,
 	"hasLiquids": true,
 	"hasItems": true,
 	"craftTime": 50,
 	"consumes": {
-		"power": 0.7,
+		"power": 0.8,
 		"items": {
 			"items": [
 				{ "item": "seed", "amount": 4 }
@@ -18,16 +18,16 @@
 		},
 		"liquid": {
 			"liquid": "water",
-			"amount": 1.0
+			"amount": 0.166
 		}
 	},
 	"requirements": [
-		{ "item": "lead", "amount": 50 },
-		{ "item": "copper", "amount": 80 },
-		{ "item": "silicon", "amount": 20 }
+		{ "item": "graphite", "amount": 60 },
+		{ "item": "metaglass", "amount": 40 },
+		{ "item": "silicon", "amount": 30 }
 	],
 	"category": "crafting",
-	"research": "kiln",
+	"research": "cryofluid-mixer",
 	"idleSound": "respawning",
-	"idleSoundVolume": 0.5
+	"idleSoundVolume": 5
 }
