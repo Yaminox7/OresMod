@@ -1,4 +1,4 @@
-![icon](big-icon.png)
+![icon](small-icon.png)
 
 # MindustryNewOresMod
 
