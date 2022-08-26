@@ -1,6 +1,6 @@
 {
 	"type": "material",
-	"name": "Oxidized Copper",
+	"name": "oxidized-copper",
 	"description": "An oxidized version of the copper.",
 	"cost": 2.0,
 	"color": "039ae5"
