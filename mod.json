@@ -1,0 +1,12 @@
+{
+  "name": "ores-mod",
+  "author": "Yaminox7",
+  "displayName": "[orange]Ores [gray]mod",
+  "description": "This is my first mod on [royal]Mindustry[]",
+  "subtitle": "A mod that adds [accent]new[] items and blocks to the game.",
+  "version": "1.0",
+  "minGameVersion": "136",
+  "dependencies": [],
+  "hidden": false
+  "repo": "Yaminox7/OresMod"
+}
